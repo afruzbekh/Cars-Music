@@ -1,0 +1,114 @@
+.hero__h1__our-service {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 125%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #db3138;
+}
+
+.prices__intro__left__h2 {
+  max-width: 526px;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 44.8px;
+  letter-spacing: 5%;
+  color: #ffffff;
+}
+
+.prices__intro__left__text {
+  max-width: 526px;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  color: white;
+}
+
+.prices__intro__left__logos {
+  margin: 50px 0 0 56px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 419px;
+  column-gap: 99px;
+  row-gap: 61px;
+  align-items: center;
+}
+
+.intro_logo img {
+  width: 160px;
+}
+.prices__intro {
+  display: flex;
+  justify-content: space-between;
+}
+.prices__intro__right img {
+  max-width: 636px;
+  width: 100%;
+  border-radius: 50px 0 50px 0;
+}
+
+.prices__h2 {
+  text-align: center;
+  color: white;
+  font-size: 52px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+}
+.price-numbers {
+  margin-bottom: 119px;
+}
+.price__line {
+  width: 100%;
+  height: 1px;
+  background: #898989;
+  border: none;
+}
+
+.table__sort {
+  padding: 30px 55px;
+  display: grid;
+  grid-template-columns: 240px 240px 240px 240px 240px;
+  grid-template-rows: 1fr;
+  place-items: center;
+}
+.table__sort p {
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+}
+
+.table__sort-1 {
+  padding: 25px 50px;
+  display: grid;
+  grid-template-columns: 240px 240px 240px 240px 240px;
+  grid-template-rows: 1fr;
+  place-items: center;
+}
+
+.table__sort-1 span {
+  max-width: 240px;
+  color: #db3138;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.table__sort-1 p {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  opacity: 0.6000000238418579;
+}
